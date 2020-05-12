@@ -1,0 +1,8 @@
+[
+  "httpbin_api/test_api.py::Test_httpbin::()::test_get_ip",
+  "httpbin_api/test_api.py::Test_httpbin::()::test_post_method",
+  "test_api.py::Test_httpbin::test_get_ip",
+  "test_api.py::Test_httpbin::test_post_method",
+  "test_api.py::Test_httpbin::test_put_method",
+  "test_api.py::Test_httpbin::test_youdaofanyi"
+]

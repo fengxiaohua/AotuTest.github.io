@@ -1,0 +1,5 @@
+BASE_URL = 'http://httpbin.org/'
+POST_URL = 'post'
+PUT_URL = 'put'
+IP_URL = 'ip'
+LOCAL_IP = '117.174.94.215'
